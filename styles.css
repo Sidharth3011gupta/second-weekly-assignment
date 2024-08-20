@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#book-list {
+    margin-top: 20px;
+}
+
+.book-entry {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.book-entry button {
+    margin-left: 20px;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 50px ;
+}
+body{
+    background-color: aquamarine;
+}
